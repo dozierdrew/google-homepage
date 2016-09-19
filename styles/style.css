@@ -1,0 +1,38 @@
+.logo {
+	margin: 0 auto;
+	text-align: center;
+	margin-top:200px;
+}
+.search {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 25px;
+}
+.searchbox {
+	border:1px solid rgba(0, 0, 255, 0.25);
+	width: 550px; 
+	padding: 10px 10px;
+}
+.button {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 30px;
+}
+.box {
+	border: 1px solid #f2f2f2;
+	padding: 10px 20px; 
+	background-color: #f2f2f2;
+	font-family: arial,sans-serif;
+	color: #757575;
+	font-weight: bold;
+}
+.searchbox:hover {
+	border: 1px solid rgba(0, 0, 0, 0.40);
+}
+.box:hover {
+	background-color: #f8f8f8;
+	border: 1px solid #c6c6c6;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    font-weight: bold;
+    color: black;
+}
